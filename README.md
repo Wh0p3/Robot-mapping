@@ -43,10 +43,10 @@
 
 <p align="left">
 The SLAM bot is an autonomous mapping robot designed to create 3D maps of its surroundings using a Kinect sensor. Equipped with both a depth sensor and an RGB camera, mounted atop the robot, the SLAM bot is capable of capturing detailed information about its environment. Operating primarily indoors but with the ability to map anything within its range, the bot aims to autonomously map entire locations, facilitating digital visualization.
-
+<p align="left">
 Controlled wirelessly via a FLYSKY controller paired with a receiver connected to the robot, the SLAM bot can be directed to move and explore its environment. The wireless controller provides human supervision, but with the integration of appropriate algorithms and sensors, full autonomy is feasible.
 
-
+<p align="left">
 The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses RGB-D data for mapping. It employs an incremental appearance-based loop closure detector, using a bag-of-words method to assess the likelihood of new images coming from known locations. When a loop closure is confirmed, it adds constraints to the map's graph, which are then optimized to reduce errors. To maintain real-time performance in extensive environments, a memory management system restricts the number of locations used for loop closure detection and graph optimization.
 
 
@@ -58,10 +58,10 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 
 ### Software
 <p align="left">
-* ROS (Robot Operating System)
-* RViz for visualization
-* RTAB-Map for SLAM functionality
-* FreeNect
+* [ROS (Robot Operating System)]
+* [RViz for visualization]
+* [RTAB-Map for SLAM functionality]
+* [FreeNect]
 
 <p align="left">
 ### Hardware
