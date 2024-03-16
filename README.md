@@ -15,23 +15,19 @@ Our SLAM bot is an autonomous mapping robot equipped with a Kinect sensor, capab
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#about-the-project">About The Project</a>
     </li>
     <li>
       <a href="#built-with">Built With</a></li>
       <ul>
-        <li><a href="#Key-Features">Key Features</a>
         <li><a href="#Software">Software</a></li>
         <li><a href="#Hardware">Hardware</a></li>
+        <li><a href="#Key-Features">Key Features</a>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#Future Development">Future Development</a></li>
+    <li><a href="#Use Cases">Use Cases</a></li>
+    <li><a href="#Conclusion">Conclusion</a></li>
+    <li><a href="#Contact">Contact</a></li>
   </ol>
 </details>
 
@@ -86,7 +82,7 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 - [ ] Integration of additional sensors for robust mapping in varied environments. 
 
 <!-- USAGE EXAMPLES -->
-## Use-Cases 
+## Use Cases 
 - [ ] Cave Exploration
 - [ ] Defense Purposes
 - [ ] Robot Automation
@@ -109,10 +105,10 @@ The SLAM bot project combines hardware and software to create a versatile mappin
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@\_adithya_ajai_](https://www.instagram.com/_adithya_ajai_/) - adithyaajai979@gmail.com
-Your Name - [@akhilehs_](https://www.instagram.com/akhilehs_/) - akh6769@gmail.com
-Your Name - [@lionarth_messid](https://www.instagram.com/lionarth_messid/) - siddu16jan@gmail.com
-Your Name - [@jake.cherian](https://www.instagram.com/jake.cherian/) - email@email_client.com
+* Adithya Ajai - [@\_adithya_ajai_](https://www.instagram.com/_adithya_ajai_/) - adithyaajai979@gmail.com
+* Akhilesh Donthula - [@akhilehs_](https://www.instagram.com/akhilehs_/) - akh6769@gmail.com
+* Siddarth S - [@lionarth_messid](https://www.instagram.com/lionarth_messid/) - siddu16jan@gmail.com
+* Jacob Cherian - [@jake.cherian](https://www.instagram.com/jake.cherian/) - jakecherian10@gmail.com
 
 Project Link: [https://github.com/Wh0p3/Robot-mapping](https://github.com/Wh0p3/Robot-mapping)
 
