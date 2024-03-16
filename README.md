@@ -8,7 +8,7 @@
 
 <h3 align="center">SLAM with RGB-D Kinect Sensor</h3>
 
-  <p align="center">
+  <p align="left">
     Our SLAM bot is an autonomous mapping robot equipped with a Kinect sensor, capable of generating detailed 3D maps of its surroundings. Using RGB-D data, it employs the Real-Time Appearance-Based Mapping (RTAB) algorithm for efficient mapping and loop closure detection. It navigates indoor and outdoor environments, autonomously capturing and storing point clouds to facilitate digital visualization. Our project aims to enhance autonomy through sensor fusion and algorithm optimization, paving the way for robust mapping in diverse environments.
 
 
@@ -41,6 +41,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+<p align="left">
 The SLAM bot is an autonomous mapping robot designed to create 3D maps of its surroundings using a Kinect sensor. Equipped with both a depth sensor and an RGB camera, mounted atop the robot, the SLAM bot is capable of capturing detailed information about its environment. Operating primarily indoors but with the ability to map anything within its range, the bot aims to autonomously map entire locations, facilitating digital visualization.
 
 Controlled wirelessly via a FLYSKY controller paired with a receiver connected to the robot, the SLAM bot can be directed to move and explore its environment. The wireless controller provides human supervision, but with the integration of appropriate algorithms and sensors, full autonomy is feasible.
@@ -56,13 +57,15 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 ## Built With
 
 ### Software
+<p align="left">
 * ROS (Robot Operating System)
 * RViz for visualization
 * RTAB-Map for SLAM functionality
 * FreeNect
 
-
+<p align="left">
 ### Hardware
+<p align="left">
 * Sabertooth Motor Driver
 * FLYSKY Receiver and Transmitter
 * Xbox 360 Kinect Sensor
@@ -72,6 +75,7 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 
 
 ### Key Features
+<p align="left">
 - [ ] Autonomous mapping of 3D environments using Kinect sensor.
 - [ ] Wireless control for human supervision, with potential for full autonomy.
 - [ ] RTAB SLAM algorithm for real-time mapping and loop closure detection.
@@ -79,13 +83,14 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 
 
 ## Future Development
+<p align="left">
 - [ ] Implementation of algorithms to reduce sensor interference and optimize mapping accuracy.
 - [ ] Enhancement of autonomy through sensor fusion and decision-making algorithms.
 - [ ] Integration of additional sensors for robust mapping in varied environments. 
 
 <!-- USAGE EXAMPLES -->
 ## Use-Cases 
-
+<p align="left">
 - [ ] Cave Exploration
 - [ ] Defense Purposes
 - [ ] Robot Automation
@@ -98,8 +103,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 
 ## Conclusion
-
-Conclusion:
+<p align="left">
 The SLAM bot project combines hardware and software to create a versatile mapping platform capable of autonomously generating 3D maps of indoor and outdoor environments within range. With a focus on real-time performance and usability, it represents a significant step towards digital representation and exploration of physical spaces.
 
 
