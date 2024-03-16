@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wh0p3/rgbd_slam_ws/install/setup.sh

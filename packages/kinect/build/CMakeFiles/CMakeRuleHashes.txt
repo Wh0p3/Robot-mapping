@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+9e64afd2e31ccfdf2fbd52f40c3c2980 /home/wh0p3/kinect/devel/include/freenect_camera/FreenectConfig.h
+ff2c00b455b5fa9460cc88907977566b CMakeFiles/clean_test_results
+0e17f373388f17b5a9b111db22d62d47 freenect_stack/freenect_camera/CMakeFiles/freenect_camera_gencfg
