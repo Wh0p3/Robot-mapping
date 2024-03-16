@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Wh0p3/Robot-mapping/tree/main">
+    <img src="prototype photo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SLAM with RGB-D Kinect Sensor</h3>
@@ -23,7 +23,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Key-Features">Key Features</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -78,14 +78,13 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 - [ ] ROS and RViz integration for software development and visualization.
 
 
-### Future Development
+## Future Development
 - [ ] Implementation of algorithms to reduce sensor interference and optimize mapping accuracy.
 - [ ] Enhancement of autonomy through sensor fusion and decision-making algorithms.
 - [ ] Integration of additional sensors for robust mapping in varied environments. 
 
 <!-- USAGE EXAMPLES -->
 ## Use-Cases 
-
 
 - [ ] Cave Exploration
 - [ ] Defense Purposes
@@ -98,7 +97,6 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 
 
-<!-- ACKNOWLEDGMENTS -->
 ## Conclusion
 
 Conclusion:
