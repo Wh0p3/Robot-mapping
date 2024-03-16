@@ -5,9 +5,13 @@
 
 <h3 align="center">SLAM with RGB-D Kinect Sensor</h3>
 </div>
+
 Our SLAM bot is an autonomous mapping robot equipped with a Kinect sensor, capable of generating detailed 3D maps of its surroundings. Using RGB-D data, it employs the Real-Time Appearance-Based Mapping (RTAB) algorithm for efficient mapping and loop closure detection. It navigates indoor and outdoor environments, autonomously capturing and storing point clouds to facilitate digital visualization. Our project aims to enhance autonomy through sensor fusion and algorithm optimization, paving the way for robust mapping in diverse environments.
 
+
 <br>
+<br>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -87,11 +91,14 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 - [ ] Defense Purposes
 - [ ] Robot Automation
 
+### Media
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+## Schematic
+<img src="Schematic_slambot_2024-03-16.png" alt="Logo" width="800" height="600"> 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Product Photos
+<img src="testimg1.png" alt="Logo" width="600" height="337"> <img src="testimg2.png" alt="Logo" width="600" height="337">
 
 
 ## Conclusion
