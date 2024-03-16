@@ -53,16 +53,16 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 
 
 
-### Built With
+## Built With
 
-<h2>Software</h2>
+###Software
 * ROS (Robot Operating System)
 * RViz for visualization
 * RTAB-Map for SLAM functionality
 * FreeNect
 
 
-<h2>Hardware</h2>
+###Hardware
 * Sabertooth Motor Driver
 * FLYSKY Receiver and Transmitter
 * Xbox 360 Kinect Sensor
