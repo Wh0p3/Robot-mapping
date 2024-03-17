@@ -26,11 +26,21 @@ Our SLAM bot is an autonomous mapping robot equipped with a Kinect sensor, capab
       <ul>
         <li><a href="#Software">Software</a></li>
         <li><a href="#Hardware">Hardware</a></li>
-        <li><a href="#Key-Features">Key Features</a>
       </ul>
     </li>
-    <li><a href="#Future Development">Future Development</a></li>
-    <li><a href="#Use Cases">Use Cases</a></li>
+    <li>
+      <a href="#Features,-Applications,-and-Development">Features, Applications, and Development</a></li>
+        <ul>
+          <li><a href="#Key-Features">Key Features</a>
+          <li><a href="#Future-Development">Future Development</a></li>
+          <li><a href="#Use-Cases">Use Cases</a></li>
+        </ul>
+      <a href="#Media">Media</a></li>
+        <ul>
+          <li><a href="#Schematic">Schematic</a></li>
+          <li><a href="#Product-Photos">Product Photos</a></li>
+        </ul>
+    </li>
     <li><a href="#Conclusion">Conclusion</a></li>
     <li><a href="#Contact">Contact</a></li>
   </ol>
@@ -56,16 +66,16 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 
 
 
-### Built With
+## Built With
 
-## Software
+### Software
 * ROS (Robot Operating System)
 * RViz for visualization
 * RTAB-Map for SLAM functionality
 * FreeNect
 
 
-## Hardware
+### Hardware
 * Sabertooth Motor Driver
 * FLYSKY Receiver and Transmitter
 * Xbox 360 Kinect Sensor
@@ -73,7 +83,7 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+## Features, Development, and Applications
 ### Key Features
 - [ ] Autonomous mapping of 3D environments using Kinect sensor.
 - [ ] Wireless control for human supervision, with potential for full autonomy.
@@ -81,24 +91,24 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 - [ ] ROS and RViz integration for software development and visualization.
 
 
-## Future Development
+### Future Development
 - [ ] Implementation of algorithms to reduce sensor interference and optimize mapping accuracy.
 - [ ] Enhancement of autonomy through sensor fusion and decision-making algorithms.
 - [ ] Integration of additional sensors for robust mapping in varied environments. 
 
 <!-- USAGE EXAMPLES -->
-## Use Cases 
+### Use Cases 
 - [ ] Cave Exploration
 - [ ] Defense Purposes
 - [ ] Robot Automation
 
-### Media
+## Media
 
-## Schematic
+### Schematic
 <img src="Schematic_slambot_2024-03-16.png" alt="Logo" width="800" height="600"> 
 
 
-## Product Photos
+### Product Photos
 <img src="testimg1.png" alt="Logo" width="600" height="337"> 
 <img src="testimg2.png" alt="Logo" width="600" height="337">
 <img src="testimg.png" alt="Logo" width="600" height="337">
