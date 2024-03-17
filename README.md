@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <div align="center">
   <a href="https://github.com/Wh0p3/Robot-mapping">
     <img src="prototype_photo.jpeg" alt="Logo" width="80" height="80">
@@ -40,7 +41,7 @@ Our SLAM bot is an autonomous mapping robot equipped with a Kinect sensor, capab
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="3d map with bot.png" alt="Logo" width="800" height="450">
 
 <p align="left">
 The SLAM bot is an autonomous mapping robot designed to create 3D maps of its surroundings using a Kinect sensor. Equipped with both a depth sensor and an RGB camera, mounted atop the robot, the SLAM bot is capable of capturing detailed information about its environment. Operating primarily indoors but with the ability to map anything within its range, the bot aims to autonomously map entire locations, facilitating digital visualization.
@@ -55,16 +56,16 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 
 
 
-## Built With
+### Built With
 
-### Software
+## Software
 * ROS (Robot Operating System)
 * RViz for visualization
 * RTAB-Map for SLAM functionality
 * FreeNect
 
 
-### Hardware
+## Hardware
 * Sabertooth Motor Driver
 * FLYSKY Receiver and Transmitter
 * Xbox 360 Kinect Sensor
@@ -98,7 +99,9 @@ The SLAM algorithm used is RTAB (Real-Time Appearance-Based Mapping), which uses
 
 
 ## Product Photos
-<img src="testimg1.png" alt="Logo" width="600" height="337"> <img src="testimg2.png" alt="Logo" width="600" height="337">
+<img src="testimg1.png" alt="Logo" width="600" height="337"> 
+<img src="testimg2.png" alt="Logo" width="600" height="337">
+<img src="testimg.png" alt="Logo" width="600" height="337">
 
 
 ## Conclusion
